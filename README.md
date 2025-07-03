@@ -36,10 +36,12 @@ Three subplots:
 2. **Velocity** — Controlled approach to 0 m/s  
 3. **Thrust** — Rises to decelerate, then gently decreases until reaching hover thrust to 
 
-![Screenshot 2025-07-03 165222](https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a" 
-       alt="Rocket Landing Simulation Output" 
+       alt="Rocket Landing Simulation Output Graph" 
+       width="600"/>
+  <img src="https://github.com/user-attachments/assets/c7f9d94b-2370-4ef6-a70f-4a6590e19504" 
+       alt="Rocket Landing Simulation Output Graph" 
        width="600"/>
 </p>
 
