@@ -1,8 +1,8 @@
 # 🚀 2D Rocket Landing Simulation with PID Control (MATLAB)
 
-This project simulates a vertical rocket landing using a PID controller in MATLAB. Designed as a first-principles approach to guidance and control systems, it models thrust-controlled descent from 100 meters to a smooth, zero-velocity touchdown. 
+This project simulates a vertical rocket landing using a PID controller in MATLAB. Designed as an approach to guidance and control systems, it models thrust-controlled descent from 100 meters to a smooth, zero-velocity touchdown. 
 
-The controller dynamically adjusts thrust to counteract gravity and velocity using real-time feedback — demonstrating key concepts used in real-world GNC systems like those on Falcon 9 or Blue Origin's New Shepard.
+The controller dynamically adjusts thrust to counteract gravity and velocity, which demonstrates key concepts used in real-world GNC systems like those on Falcon 9.
 
 ---
 
@@ -21,6 +21,8 @@ The controller dynamically adjusts thrust to counteract gravity and velocity usi
 - 🧰 **Fully Tunable**  
   PID gains can be adjusted to test aggressiveness, overshoot, and stability.
   The values for the rocket are also adjustable to modify for any possible scenario.
+  For the proof of concept, I used a 1.0 kg object, -10 m/s starting velocity, and 100 m starting height.
+    - These values can be changed and tuned different respective needs!
 
 ---
 
