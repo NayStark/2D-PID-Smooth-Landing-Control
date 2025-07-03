@@ -42,7 +42,7 @@ Three subplots:
        width="600"/>
   <img src="https://github.com/user-attachments/assets/c7f9d94b-2370-4ef6-a70f-4a6590e19504" 
        alt="Rocket Landing Simulation Output Graph" 
-       width="600"/>
+       width="300"/>
 </p>
 
 ---
