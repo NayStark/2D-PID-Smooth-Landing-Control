@@ -37,6 +37,11 @@ Three subplots:
 3. **Thrust** — Rises to decelerate, then gently decreases until reaching hover thrust to 
 
 ![Screenshot 2025-07-03 165222](https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a" 
+       alt="Rocket Landing Simulation Output" 
+       width="600"/>
+</p>
 
 ---
 
