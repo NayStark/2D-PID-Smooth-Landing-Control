@@ -36,9 +36,7 @@ Three subplots:
 2. **Velocity** — Controlled approach to 0 m/s  
 3. **Thrust** — Rises to decelerate, then gently decreases until reaching hover thrust to 
 
-<p align="center">
-  ![Screenshot 2025-07-03 165222](https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a)
-</p>
+![Screenshot 2025-07-03 165222](https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a)
 
 ---
 
