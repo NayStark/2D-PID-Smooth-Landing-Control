@@ -13,12 +13,14 @@ The controller dynamically adjusts thrust to counteract gravity and velocity usi
 
 - 📉 **Realistic Physics Modeling**  
   Incorporates gravity, dynamic acceleration, velocity, and position updates.
+  Uses a Taylor Expansion for position update (2nd order).
 
 - 🎯 **Smooth, Precision Landing**  
   Velocity and thrust taper off naturally without forced termination.
 
 - 🧰 **Fully Tunable**  
   PID gains can be adjusted to test aggressiveness, overshoot, and stability.
+  The values for the rocket are also adjustable to modify for any possible scenario.
 
 ---
 
